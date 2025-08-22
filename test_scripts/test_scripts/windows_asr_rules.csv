@@ -1,0 +1,7 @@
+id,asr_rule,metadata_comment,metadata_tactic
+56A863A9-875E-4185-98A7-B882C64B5CE5,"Block abuse of exploited vulnerable signed drivers","Helps prevent exploitation of known vulnerable signed drivers, reducing the risk of kernel-level malware.",Defense Evasion
+7674BA52-37EB-4A4F-A9A1-F0F9A1619A2C,"Block Adobe Reader from creating child processes","Limits Adobe Reader's ability to spawn child processes, mitigating potential attack vectors via PDF files.",Execution
+D4F940AB-401B-4EFC-AADC-AD5F3C50688A,"Block all Office applications from creating child processes","Prevents Office applications from creating child processes, reducing the risk of macro-based attacks.",Execution
+9E6C4E1F-7D60-472F-BA1A-A39EF669E4B2,"Block credential stealing from the Windows local security authority subsystem (lsass.exe)","Protects against credential dumping attacks by blocking access to LSASS.",Credential Access
+BE9BA2D9-53EA-4CDC-84E5-9B1EEEE46550,"Block executable content from email client and webmail","Prevents execution of malicious code delivered via email clients or webmail, enhancing email security.",Execution
+5BEB7EFE-FD9A-4556-801D-275E5FFC04CC,"Block execution of potentially obfuscated scripts","Prevents execution of scripts that are obfuscated, mitigating script-based malware attacks.",Execution

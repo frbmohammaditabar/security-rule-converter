@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Gronau;Pierre;;;
+URL:https://ndaal.eu
+EMAIL;PREF=1:Pierre.Gronau@ndaal.eu
+ADR:;;Adolf-Grimme-Allee 3;Cologne;NRW;50829;Germany
+TEL;TYPE=work;VALUE=TEXT:+49 221 650 86 200
+TZ:Europe/Berlin
+FN:Pierre Gronau
+NICKNAME:vPierre
+TEL;TYPE=cell;VALUE=TEXT:+49 151 419 867 35
+END:VCARD

@@ -1,0 +1,11 @@
+title: Detect sample1
+id: sample1-rule
+status: experimental
+description: Auto-generated Sigma rule
+logsource:
+  category: file_event
+detection:
+  keywords:
+    - "This is a malicious "
+  condition: keywords
+level: medium
