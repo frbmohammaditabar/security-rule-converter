@@ -1,0 +1,11 @@
+title: Detect BrowserModifier
+id: BrowserModifier-rule
+status: experimental
+description: Auto-generated Sigma rule
+logsource:
+  category: file_event
+detection:
+  keywords:
+    - "fffe420072006f007700"
+  condition: keywords
+level: medium

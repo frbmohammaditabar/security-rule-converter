@@ -1,0 +1,11 @@
+title: Detect Adware
+id: Adware-rule
+status: experimental
+description: Auto-generated Sigma rule
+logsource:
+  category: file_event
+detection:
+  keywords:
+    - "fffe4100640077006100"
+  condition: keywords
+level: medium

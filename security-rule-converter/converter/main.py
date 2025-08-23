@@ -23,8 +23,17 @@ def load_input_files():
     files = []
     for file in INPUT_DIR.glob("*"):
         if file.is_file():
-            with open(file, "r", encoding="utf-8") as f:
-                files.append((file.stem, f.read()))
+            with file.open("rb") as f:
+                content = f.read()
+
+            try:
+                # Try decode as UTF-8
+                text = content.decode("utf-8")
+            except UnicodeDecodeError:
+                # If not decodable, fallback to hex
+                text = content.hex()
+
+            files.append((file.stem, text))
     return files
 
 

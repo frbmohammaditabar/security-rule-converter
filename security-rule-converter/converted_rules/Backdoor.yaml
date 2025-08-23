@@ -1,0 +1,11 @@
+title: Detect Backdoor
+id: Backdoor-rule
+status: experimental
+description: Auto-generated Sigma rule
+logsource:
+  category: file_event
+detection:
+  keywords:
+    - "fffe57006f0072006d00"
+  condition: keywords
+level: medium
