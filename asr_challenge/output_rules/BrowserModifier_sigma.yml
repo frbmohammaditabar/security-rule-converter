@@ -1,0 +1,15 @@
+title: Suspicious File - BrowserModifier.txt
+id: 66e7940041d697efd151de75cec66f67
+status: experimental
+description: Detects presence of BrowserModifier.txt
+author: Fariba Mohammaditabar
+date: 2025-08-24T14:03:25.034656
+logsource:
+    category: file_event
+detection:
+    selection:
+        FileName|endswith: 'BrowserModifier.txt'
+    condition: selection
+falsepositives:
+    - Unknown
+level: medium

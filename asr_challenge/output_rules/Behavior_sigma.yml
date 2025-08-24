@@ -1,0 +1,15 @@
+title: Suspicious File - Behavior.txt
+id: 24bff4c02c835c03eabce4601d59acc3
+status: experimental
+description: Detects presence of Behavior.txt
+author: Fariba Mohammaditabar
+date: 2025-08-24T14:03:25.034656
+logsource:
+    category: file_event
+detection:
+    selection:
+        FileName|endswith: 'Behavior.txt'
+    condition: selection
+falsepositives:
+    - Unknown
+level: medium

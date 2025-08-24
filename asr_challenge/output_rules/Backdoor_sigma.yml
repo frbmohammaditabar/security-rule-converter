@@ -1,0 +1,15 @@
+title: Suspicious File - Backdoor.txt
+id: f2dd21ce50255ab3a9d6b66b0a21c3a0
+status: experimental
+description: Detects presence of Backdoor.txt
+author: Fariba Mohammaditabar
+date: 2025-08-24T14:03:25.034656
+logsource:
+    category: file_event
+detection:
+    selection:
+        FileName|endswith: 'Backdoor.txt'
+    condition: selection
+falsepositives:
+    - Unknown
+level: medium

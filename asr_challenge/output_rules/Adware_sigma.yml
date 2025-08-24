@@ -1,0 +1,15 @@
+title: Suspicious File - Adware.txt
+id: 471c0ebd61af313db7fc96df37e15e63
+status: experimental
+description: Detects presence of Adware.txt
+author: Fariba Mohammaditabar
+date: 2025-08-24T14:03:25.034656
+logsource:
+    category: file_event
+detection:
+    selection:
+        FileName|endswith: 'Adware.txt'
+    condition: selection
+falsepositives:
+    - Unknown
+level: medium

@@ -1,0 +1,15 @@
+title: Suspicious File - Dialer.txt
+id: f4f02629db4c31d6988dfc3c6f71466d
+status: experimental
+description: Detects presence of Dialer.txt
+author: Fariba Mohammaditabar
+date: 2025-08-24T14:03:25.034656
+logsource:
+    category: file_event
+detection:
+    selection:
+        FileName|endswith: 'Dialer.txt'
+    condition: selection
+falsepositives:
+    - Unknown
+level: medium

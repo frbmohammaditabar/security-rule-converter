@@ -1,0 +1,13 @@
+{
+  "author": "Fariba Mohammaditabar",
+  "created": "2025-08-24T14:03:25.034656",
+  "version": "1.0",
+  "description": "Automatically generated security rules",
+  "source_file": "Microsoft_Defender_All_signatures_list.csv",
+  "file_size": 11161500,
+  "file_type": "text/csv",
+  "analysis_date": "2025-08-24T14:03:25.063771",
+  "file_hash": "90e8fda9e5eb35844e1ff93f1f1d63ef",
+  "indicators_found": [],
+  "status": "generated"
+}

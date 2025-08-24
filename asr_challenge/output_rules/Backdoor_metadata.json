@@ -1,0 +1,13 @@
+{
+  "author": "Fariba Mohammaditabar",
+  "created": "2025-08-24T14:03:25.034656",
+  "version": "1.0",
+  "description": "Automatically generated security rules",
+  "source_file": "Backdoor.txt",
+  "file_size": 1240170,
+  "file_type": "text/plain",
+  "analysis_date": "2025-08-24T14:03:25.077894",
+  "file_hash": "114ea37447a6ce81897a45e96fdb813d",
+  "indicators_found": [],
+  "status": "generated"
+}

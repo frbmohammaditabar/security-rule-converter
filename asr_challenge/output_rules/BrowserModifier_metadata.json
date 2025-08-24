@@ -1,0 +1,13 @@
+{
+  "author": "Fariba Mohammaditabar",
+  "created": "2025-08-24T14:03:25.034656",
+  "version": "1.0",
+  "description": "Automatically generated security rules",
+  "source_file": "BrowserModifier.txt",
+  "file_size": 47888,
+  "file_type": "text/plain",
+  "analysis_date": "2025-08-24T14:03:25.084417",
+  "file_hash": "33383444cd156b6d7bc5ec8b74e49d2c",
+  "indicators_found": [],
+  "status": "generated"
+}

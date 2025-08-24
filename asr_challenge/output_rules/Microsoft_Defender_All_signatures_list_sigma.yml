@@ -1,0 +1,15 @@
+title: Suspicious File - Microsoft_Defender_All_signatures_list.csv
+id: 61586a8bd38b0d5ff1a5356ede074232
+status: experimental
+description: Detects presence of Microsoft_Defender_All_signatures_list.csv
+author: Fariba Mohammaditabar
+date: 2025-08-24T14:03:25.034656
+logsource:
+    category: file_event
+detection:
+    selection:
+        FileName|endswith: 'Microsoft_Defender_All_signatures_list.csv'
+    condition: selection
+falsepositives:
+    - Unknown
+level: medium

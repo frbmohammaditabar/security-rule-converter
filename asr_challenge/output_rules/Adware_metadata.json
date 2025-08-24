@@ -1,0 +1,13 @@
+{
+  "author": "Fariba Mohammaditabar",
+  "created": "2025-08-24T14:03:25.034656",
+  "version": "1.0",
+  "description": "Automatically generated security rules",
+  "source_file": "Adware.txt",
+  "file_size": 95012,
+  "file_type": "text/plain",
+  "analysis_date": "2025-08-24T14:03:25.090641",
+  "file_hash": "4cd54dbb372c7b8c80226602d028a48a",
+  "indicators_found": [],
+  "status": "generated"
+}

@@ -1,0 +1,150 @@
+2025-08-24 13:46:23,472 - INFO - Processing files from: new_input_files
+2025-08-24 13:46:23,472 - INFO - Processing file: Constructor.txt
+2025-08-24 13:46:23,538 - INFO - YARA rules saved: output_rules/Constructor_rules.yar
+2025-08-24 13:46:23,538 - INFO - Sigma rules saved: output_rules/Constructor_sigma.yml
+2025-08-24 13:46:23,539 - INFO - Metadata saved: output_rules/Constructor_metadata.json
+2025-08-24 13:46:23,539 - INFO - Processing file: Microsoft_Defender_All_signatures_list.csv
+2025-08-24 13:46:23,560 - INFO - YARA rules saved: output_rules/Microsoft_Defender_All_signatures_list_rules.yar
+2025-08-24 13:46:23,561 - INFO - Sigma rules saved: output_rules/Microsoft_Defender_All_signatures_list_sigma.yml
+2025-08-24 13:46:23,561 - INFO - Metadata saved: output_rules/Microsoft_Defender_All_signatures_list_metadata.json
+2025-08-24 13:46:23,561 - INFO - Processing file: Backdoor.txt
+2025-08-24 13:46:23,567 - INFO - YARA rules saved: output_rules/Backdoor_rules.yar
+2025-08-24 13:46:23,568 - INFO - Sigma rules saved: output_rules/Backdoor_sigma.yml
+2025-08-24 13:46:23,569 - INFO - Metadata saved: output_rules/Backdoor_metadata.json
+2025-08-24 13:46:23,569 - INFO - Processing file: Dialer.txt
+2025-08-24 13:46:23,571 - INFO - YARA rules saved: output_rules/Dialer_rules.yar
+2025-08-24 13:46:23,571 - INFO - Sigma rules saved: output_rules/Dialer_sigma.yml
+2025-08-24 13:46:23,571 - INFO - Metadata saved: output_rules/Dialer_metadata.json
+2025-08-24 13:46:23,571 - INFO - Processing file: BrowserModifier.txt
+2025-08-24 13:46:23,574 - INFO - YARA rules saved: output_rules/BrowserModifier_rules.yar
+2025-08-24 13:46:23,574 - INFO - Sigma rules saved: output_rules/BrowserModifier_sigma.yml
+2025-08-24 13:46:23,574 - INFO - Metadata saved: output_rules/BrowserModifier_metadata.json
+2025-08-24 13:46:23,574 - INFO - Processing file: Adware.txt
+2025-08-24 13:46:23,576 - INFO - YARA rules saved: output_rules/Adware_rules.yar
+2025-08-24 13:46:23,577 - INFO - Sigma rules saved: output_rules/Adware_sigma.yml
+2025-08-24 13:46:23,577 - INFO - Metadata saved: output_rules/Adware_metadata.json
+2025-08-24 13:46:23,577 - INFO - Processing file: Behavior.txt
+2025-08-24 13:46:23,581 - INFO - YARA rules saved: output_rules/Behavior_rules.yar
+2025-08-24 13:46:23,581 - INFO - Sigma rules saved: output_rules/Behavior_sigma.yml
+2025-08-24 13:46:23,582 - INFO - Metadata saved: output_rules/Behavior_metadata.json
+2025-08-24 13:46:23,582 - INFO - Rule generation completed successfully!
+2025-08-24 13:54:48,478 - INFO - Processing files from: new_input_files
+2025-08-24 13:54:48,479 - INFO - Processing file: Constructor.txt
+2025-08-24 13:54:48,487 - INFO - YARA rules saved: output_rules/Constructor_rules.yar
+2025-08-24 13:54:48,487 - INFO - Sigma rules saved: output_rules/Constructor_sigma.yml
+2025-08-24 13:54:48,488 - INFO - Metadata saved: output_rules/Constructor_metadata.json
+2025-08-24 13:54:48,488 - INFO - Processing file: Microsoft_Defender_All_signatures_list.csv
+2025-08-24 13:54:48,510 - INFO - YARA rules saved: output_rules/Microsoft_Defender_All_signatures_list_rules.yar
+2025-08-24 13:54:48,510 - INFO - Sigma rules saved: output_rules/Microsoft_Defender_All_signatures_list_sigma.yml
+2025-08-24 13:54:48,511 - INFO - Metadata saved: output_rules/Microsoft_Defender_All_signatures_list_metadata.json
+2025-08-24 13:54:48,511 - INFO - Processing file: Backdoor.txt
+2025-08-24 13:54:48,515 - INFO - YARA rules saved: output_rules/Backdoor_rules.yar
+2025-08-24 13:54:48,516 - INFO - Sigma rules saved: output_rules/Backdoor_sigma.yml
+2025-08-24 13:54:48,516 - INFO - Metadata saved: output_rules/Backdoor_metadata.json
+2025-08-24 13:54:48,516 - INFO - Processing file: Dialer.txt
+2025-08-24 13:54:48,518 - INFO - YARA rules saved: output_rules/Dialer_rules.yar
+2025-08-24 13:54:48,519 - INFO - Sigma rules saved: output_rules/Dialer_sigma.yml
+2025-08-24 13:54:48,519 - INFO - Metadata saved: output_rules/Dialer_metadata.json
+2025-08-24 13:54:48,519 - INFO - Processing file: BrowserModifier.txt
+2025-08-24 13:54:48,521 - INFO - YARA rules saved: output_rules/BrowserModifier_rules.yar
+2025-08-24 13:54:48,522 - INFO - Sigma rules saved: output_rules/BrowserModifier_sigma.yml
+2025-08-24 13:54:48,522 - INFO - Metadata saved: output_rules/BrowserModifier_metadata.json
+2025-08-24 13:54:48,522 - INFO - Processing file: Adware.txt
+2025-08-24 13:54:48,524 - INFO - YARA rules saved: output_rules/Adware_rules.yar
+2025-08-24 13:54:48,525 - INFO - Sigma rules saved: output_rules/Adware_sigma.yml
+2025-08-24 13:54:48,525 - INFO - Metadata saved: output_rules/Adware_metadata.json
+2025-08-24 13:54:48,525 - INFO - Processing file: Behavior.txt
+2025-08-24 13:54:48,529 - INFO - YARA rules saved: output_rules/Behavior_rules.yar
+2025-08-24 13:54:48,529 - INFO - Sigma rules saved: output_rules/Behavior_sigma.yml
+2025-08-24 13:54:48,530 - INFO - Metadata saved: output_rules/Behavior_metadata.json
+2025-08-24 13:54:48,530 - INFO - Rule generation completed successfully!
+2025-08-24 13:59:32,717 - INFO - Processing files from: new_input_files
+2025-08-24 13:59:32,717 - INFO - Processing file: Constructor.txt
+2025-08-24 13:59:32,724 - INFO - YARA rules saved: output_rules/Constructor_rules.yar
+2025-08-24 13:59:32,725 - INFO - Sigma rules saved: output_rules/Constructor_sigma.yml
+2025-08-24 13:59:32,725 - INFO - Metadata saved: output_rules/Constructor_metadata.json
+2025-08-24 13:59:32,725 - INFO - Processing file: Microsoft_Defender_All_signatures_list.csv
+2025-08-24 13:59:33,011 - INFO - YARA rules saved: output_rules/Microsoft_Defender_All_signatures_list_rules.yar
+2025-08-24 13:59:33,012 - INFO - Sigma rules saved: output_rules/Microsoft_Defender_All_signatures_list_sigma.yml
+2025-08-24 13:59:33,013 - INFO - Metadata saved: output_rules/Microsoft_Defender_All_signatures_list_metadata.json
+2025-08-24 13:59:33,013 - INFO - Processing file: Backdoor.txt
+2025-08-24 13:59:33,019 - INFO - YARA rules saved: output_rules/Backdoor_rules.yar
+2025-08-24 13:59:33,020 - INFO - Sigma rules saved: output_rules/Backdoor_sigma.yml
+2025-08-24 13:59:33,020 - INFO - Metadata saved: output_rules/Backdoor_metadata.json
+2025-08-24 13:59:33,021 - INFO - Processing file: Dialer.txt
+2025-08-24 13:59:33,023 - INFO - YARA rules saved: output_rules/Dialer_rules.yar
+2025-08-24 13:59:33,024 - INFO - Sigma rules saved: output_rules/Dialer_sigma.yml
+2025-08-24 13:59:33,024 - INFO - Metadata saved: output_rules/Dialer_metadata.json
+2025-08-24 13:59:33,024 - INFO - Processing file: BrowserModifier.txt
+2025-08-24 13:59:33,028 - INFO - YARA rules saved: output_rules/BrowserModifier_rules.yar
+2025-08-24 13:59:33,028 - INFO - Sigma rules saved: output_rules/BrowserModifier_sigma.yml
+2025-08-24 13:59:33,029 - INFO - Metadata saved: output_rules/BrowserModifier_metadata.json
+2025-08-24 13:59:33,029 - INFO - Processing file: Adware.txt
+2025-08-24 13:59:33,033 - INFO - YARA rules saved: output_rules/Adware_rules.yar
+2025-08-24 13:59:33,034 - INFO - Sigma rules saved: output_rules/Adware_sigma.yml
+2025-08-24 13:59:33,034 - INFO - Metadata saved: output_rules/Adware_metadata.json
+2025-08-24 13:59:33,034 - INFO - Processing file: Behavior.txt
+2025-08-24 13:59:33,038 - INFO - YARA rules saved: output_rules/Behavior_rules.yar
+2025-08-24 13:59:33,038 - INFO - Sigma rules saved: output_rules/Behavior_sigma.yml
+2025-08-24 13:59:33,039 - INFO - Metadata saved: output_rules/Behavior_metadata.json
+2025-08-24 13:59:33,039 - INFO - Rule generation completed successfully!
+2025-08-24 14:02:08,935 - INFO - Processing files from: new_input_files
+2025-08-24 14:02:08,936 - INFO - Processing file: Constructor.txt
+2025-08-24 14:02:08,943 - INFO - YARA rules saved: output_rules/Constructor_rules.yar
+2025-08-24 14:02:08,944 - INFO - Sigma rules saved: output_rules/Constructor_sigma.yml
+2025-08-24 14:02:08,944 - INFO - Metadata saved: output_rules/Constructor_metadata.json
+2025-08-24 14:02:08,944 - INFO - Processing file: Microsoft_Defender_All_signatures_list.csv
+2025-08-24 14:02:09,300 - INFO - YARA rules saved: output_rules/Microsoft_Defender_All_signatures_list_rules.yar
+2025-08-24 14:02:09,301 - INFO - Sigma rules saved: output_rules/Microsoft_Defender_All_signatures_list_sigma.yml
+2025-08-24 14:02:09,302 - INFO - Metadata saved: output_rules/Microsoft_Defender_All_signatures_list_metadata.json
+2025-08-24 14:02:09,302 - INFO - Processing file: Backdoor.txt
+2025-08-24 14:02:09,307 - INFO - YARA rules saved: output_rules/Backdoor_rules.yar
+2025-08-24 14:02:09,308 - INFO - Sigma rules saved: output_rules/Backdoor_sigma.yml
+2025-08-24 14:02:09,309 - INFO - Metadata saved: output_rules/Backdoor_metadata.json
+2025-08-24 14:02:09,310 - INFO - Processing file: Dialer.txt
+2025-08-24 14:02:09,314 - INFO - YARA rules saved: output_rules/Dialer_rules.yar
+2025-08-24 14:02:09,315 - INFO - Sigma rules saved: output_rules/Dialer_sigma.yml
+2025-08-24 14:02:09,315 - INFO - Metadata saved: output_rules/Dialer_metadata.json
+2025-08-24 14:02:09,315 - INFO - Processing file: BrowserModifier.txt
+2025-08-24 14:02:09,320 - INFO - YARA rules saved: output_rules/BrowserModifier_rules.yar
+2025-08-24 14:02:09,321 - INFO - Sigma rules saved: output_rules/BrowserModifier_sigma.yml
+2025-08-24 14:02:09,322 - INFO - Metadata saved: output_rules/BrowserModifier_metadata.json
+2025-08-24 14:02:09,322 - INFO - Processing file: Adware.txt
+2025-08-24 14:02:09,326 - INFO - YARA rules saved: output_rules/Adware_rules.yar
+2025-08-24 14:02:09,326 - INFO - Sigma rules saved: output_rules/Adware_sigma.yml
+2025-08-24 14:02:09,327 - INFO - Metadata saved: output_rules/Adware_metadata.json
+2025-08-24 14:02:09,327 - INFO - Processing file: Behavior.txt
+2025-08-24 14:02:09,331 - INFO - YARA rules saved: output_rules/Behavior_rules.yar
+2025-08-24 14:02:09,331 - INFO - Sigma rules saved: output_rules/Behavior_sigma.yml
+2025-08-24 14:02:09,332 - INFO - Metadata saved: output_rules/Behavior_metadata.json
+2025-08-24 14:02:09,332 - INFO - Rule generation completed successfully!
+2025-08-24 14:03:25,034 - INFO - Processing files from: new_input_files
+2025-08-24 14:03:25,035 - INFO - Processing file: Constructor.txt
+2025-08-24 14:03:25,042 - INFO - YARA rules saved: output_rules/Constructor_rules.yar
+2025-08-24 14:03:25,043 - INFO - Sigma rules saved: output_rules/Constructor_sigma.yml
+2025-08-24 14:03:25,044 - INFO - Metadata saved: output_rules/Constructor_metadata.json
+2025-08-24 14:03:25,044 - INFO - Processing file: Microsoft_Defender_All_signatures_list.csv
+2025-08-24 14:03:25,065 - INFO - YARA rules saved: output_rules/Microsoft_Defender_All_signatures_list_rules.yar
+2025-08-24 14:03:25,065 - INFO - Sigma rules saved: output_rules/Microsoft_Defender_All_signatures_list_sigma.yml
+2025-08-24 14:03:25,066 - INFO - Metadata saved: output_rules/Microsoft_Defender_All_signatures_list_metadata.json
+2025-08-24 14:03:25,066 - INFO - Processing file: Backdoor.txt
+2025-08-24 14:03:25,078 - INFO - YARA rules saved: output_rules/Backdoor_rules.yar
+2025-08-24 14:03:25,079 - INFO - Sigma rules saved: output_rules/Backdoor_sigma.yml
+2025-08-24 14:03:25,079 - INFO - Metadata saved: output_rules/Backdoor_metadata.json
+2025-08-24 14:03:25,079 - INFO - Processing file: Dialer.txt
+2025-08-24 14:03:25,081 - INFO - YARA rules saved: output_rules/Dialer_rules.yar
+2025-08-24 14:03:25,081 - INFO - Sigma rules saved: output_rules/Dialer_sigma.yml
+2025-08-24 14:03:25,082 - INFO - Metadata saved: output_rules/Dialer_metadata.json
+2025-08-24 14:03:25,082 - INFO - Processing file: BrowserModifier.txt
+2025-08-24 14:03:25,085 - INFO - YARA rules saved: output_rules/BrowserModifier_rules.yar
+2025-08-24 14:03:25,085 - INFO - Sigma rules saved: output_rules/BrowserModifier_sigma.yml
+2025-08-24 14:03:25,086 - INFO - Metadata saved: output_rules/BrowserModifier_metadata.json
+2025-08-24 14:03:25,086 - INFO - Processing file: Adware.txt
+2025-08-24 14:03:25,091 - INFO - YARA rules saved: output_rules/Adware_rules.yar
+2025-08-24 14:03:25,091 - INFO - Sigma rules saved: output_rules/Adware_sigma.yml
+2025-08-24 14:03:25,092 - INFO - Metadata saved: output_rules/Adware_metadata.json
+2025-08-24 14:03:25,092 - INFO - Processing file: Behavior.txt
+2025-08-24 14:03:25,106 - INFO - YARA rules saved: output_rules/Behavior_rules.yar
+2025-08-24 14:03:25,107 - INFO - Sigma rules saved: output_rules/Behavior_sigma.yml
+2025-08-24 14:03:25,107 - INFO - Metadata saved: output_rules/Behavior_metadata.json
+2025-08-24 14:03:25,107 - INFO - Rule generation completed successfully!

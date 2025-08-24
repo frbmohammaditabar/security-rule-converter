@@ -1,0 +1,15 @@
+title: Suspicious File - Constructor.txt
+id: b845120b3a7472017f496286214a7b46
+status: experimental
+description: Detects presence of Constructor.txt
+author: Fariba Mohammaditabar
+date: 2025-08-24T14:03:25.034656
+logsource:
+    category: file_event
+detection:
+    selection:
+        FileName|endswith: 'Constructor.txt'
+    condition: selection
+falsepositives:
+    - Unknown
+level: medium

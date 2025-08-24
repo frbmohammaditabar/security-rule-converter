@@ -1,0 +1,13 @@
+{
+  "author": "Fariba Mohammaditabar",
+  "created": "2025-08-24T14:03:25.034656",
+  "version": "1.0",
+  "description": "Automatically generated security rules",
+  "source_file": "Dialer.txt",
+  "file_size": 8244,
+  "file_type": "text/plain",
+  "analysis_date": "2025-08-24T14:03:25.081144",
+  "file_hash": "edb34733aae0a0a808b4dd68ed188688",
+  "indicators_found": [],
+  "status": "generated"
+}
